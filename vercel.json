@@ -6,7 +6,7 @@
     }
   ],
   "env": {
-    "VITE_SUPABASE_URL": "@supabase-url",
-    "VITE_SUPABASE_ANON_KEY": "@supabase-anon-key"
+    "VITE_SUPABASE_URL": "https://cyczdqlhwowtfhznfvlg.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5Y3pkcWxod293dGZoem5mdmxnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU4OTAyOTMsImV4cCI6MjA3MTQ2NjI5M30.jKZGoBkL93gr95__XmpBVG8pB3G9MJr5w8zzKkK_Od4"
   }
 }
